@@ -1,0 +1,95 @@
+.backgroundcolor{
+  background-color: #ECEFF1;
+}
+
+.leftmargintop{
+  margin-top: 3%;
+}
+
+.has-margin-top-3{
+  margin-top: 3.3rem;
+}
+
+.has-padding-10{
+  padding-right : 10rem;
+}
+
+.has-border{
+  border-radius: 7px;
+}
+
+.has-font-family{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.card-header-font{
+  font-family: "Arial Black", Gadget, sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.container-of-add-patient{
+  width: 70%;
+}
+
+.input-75{
+  width: 75% !important;
+}
+
+.input-20{
+  width: 20% !important;
+}
+
+.input-40{
+  width: 40% !important;
+}
+
+.has-field-padding{
+  padding-right: 5rem;
+  padding-left: 0rem;
+}
+
+.colspan1{
+  width: 60% !important;
+}
+
+.colspan2{
+  width: 17% !important;
+}
+
+.logosize{
+  width: 7%;
+  height: 7%;
+  margin-top: 2rem;
+}
+
+.input-50{
+  width: 50%;
+}
+
+.loginfont{
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 15px;
+}
+
+.boxmargin{
+  margin-top: 5rem;
+}
+
+.leftcolor{
+background-color: #CFD8DC;
+height: 120vh;
+}
+
+.boxwidth{
+  width: 30%;
+}
+
+.paddingleft{
+  padding-left: 5rem;
+}
+
+.marginright{
+  margin-right: 3rem;
+}
